@@ -12,7 +12,7 @@
           <td>🇯🇵 Building your perfect trip to Japan @ <a href="https://www.jepanana.com">Jepanana</a></td>
         </tr>
         <tr>
-          <td> Enjoy working with 💎 Ruby 🦫 Go 📦 Svelte</td>
+          <td> Enjoy working with <img width="50" src="https://img.shields.io/badge/💎-Ruby-CC342D" /> <img width="40" src="https://img.shields.io/badge/🦫-Go-00ADD8" /> <img width="60" src="https://img.shields.io/badge/📦-Svelte-d43008" /></td>
         </tr>
       </table>
       <table>
@@ -23,3 +23,5 @@
     </td>
   </tr>
 </table>
+
+
