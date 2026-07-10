@@ -11,8 +11,6 @@
       <img width="65" src="https://img.shields.io/badge/🕹️-Unity-000000" />
       </br>
       </br>
-      👗 Making second hand the first choice @ <a href="https://www.vinted.com">Vinted</a>
-      </br>
       🇯🇵 Building your perfect trip to Japan @ <a href="https://www.jepanana.com">Jepanana</a>
       </br>
       </br>
