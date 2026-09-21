@@ -11,7 +11,7 @@
       <img width="65" src="https://img.shields.io/badge/🕹️-Unity-000000" />
       </br>
       </br>
-      🇯🇵 Building your perfect trip to Japan @ <a href="https://www.jepanana.com">Jepanana</a>
+      🇯🇵 Building your perfect trip to Japan @ <a href="https://app.jepanana.com">Jepanana</a>
       </br>
       </br>
     </td>
